@@ -1,4 +1,4 @@
-#!/Users/lorenzop/Desktop/automation_activity_tracker/.venv/bin/python
+#!/Users/lorenzop/Desktop/automation-tracker/automation_activity_tracker/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
